@@ -1,2 +1,2 @@
 #7/4/2026 1:25AM
-vless://de181c24-e93b-4849-b707-cee1318d96bd@89.125.87.131:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.edKnAr6ZRXNuW5OM7YHpLau90ukjXMRmaE4OUkuM_wY&security=reality&pbk=ySSTVhdn5L77PmA_As3iZnUB42_9H-Pprh3ArHim7z4&fp=chrome&sni=api-maps.yandex.ru&sid=234c02&spx=%2F&flow=xtls-rprx-vision#Eclipse-Base#🇳🇱Нидерланды
+vless://de181c24-e93b-4849-b707-cee1318d96bd@89.125.87.131:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.edKnAr6ZRXNuW5OM7YHpLau90ukjXMRmaE4OUkuM_wY&security=reality&pbk=ySSTVhdn5L77PmA_As3iZnUB42_9H-Pprh3ArHim7z4&fp=chrome&sni=api-maps.yandex.ru&sid=234c02&spx=%2F&flow=xtls-rprx-vision#🇳🇱Нидерланды
