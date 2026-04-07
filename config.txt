@@ -1,1 +1,1 @@
-vless://de181c24-e93b-4849-b707-cee1318d96bd@89.125.87.131:443/?type=tcp&encryption=none&security=reality&pbk=yIJ-qY_lTti-GFyzCX5DJ3BP0tULJ9tFUzt6cHkxMjc&fp=chrome&sni=www.sony.com&sid=21c78e96f124da74&spx=%2F&flow=xtls-rprx-vision#Eclipse-Base#🇳🇱Нидерланды
+vless://de181c24-e93b-4849-b707-cee1318d96bd@89.125.87.131:443/?type=tcp&encryption=none&security=reality&pbk=yIJ-qY_lTti-GFyzCX5DJ3BP0tULJ9tFUzt6cHkxMjc&fp=chrome&sni=www.sony.com&sid=21c78e96f124da74&spx=%2F&flow=xtls-rprx-vision#🇳🇱Нидерланды
