@@ -1,1 +1,2 @@
 vless://0731d070-aaca-46a2-96ee-72ea6ba35ade@2.27.48.76:443?type=tcp&encryption=none&security=reality&pbk=XnjAhMwB0J-SYKRJ3QcOOl6jS2XCHMkn9CeIMJYJjVo&fp=chrome&sni=2gis.ru&sid=4c37&spx=%2F&flow=xtls-rprx-vision#🇫🇮⚡Финляндия
+vless://7280138a-c1d3-4c51-b7f1-91a6623fe627@2.26.90.215:443/?type=tcp&encryption=none&security=reality&pbk=DBsm6k7xsE2FP1qsSeLQSJlAVXUJgpOD3vKRMmoBXiM&fp=chrome&sni=www.oracle.com&sid=cfd206bb5e1cf9&spx=%2F&flow=xtls-rprx-vision#🇩🇪🟢Германия
