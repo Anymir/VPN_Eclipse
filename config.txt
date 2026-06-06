@@ -1,2 +1,2 @@
 vless://c0ba89be-4478-440a-ab1f-a220e824c9f1@2.27.48.76:8080?type=ws&host=www.cloudflare.com&path=/ws&security=none#🇫🇮⚡Финляндия
-vless://f207316f-a73e-49df-8a3b-8f4edc0d6780@2.26.90.215:8080?encryption=none&host=www.cloudflare.com&path=%2Fws&security=none&type=ws#🇩🇪🟢Германия
+vless://d45279b7-313b-49aa-8eba-206c090d4cd8@2.26.90.215:8080?encryption=none&host=www.cloudflare.com&path=%2Fws&security=none&type=ws#🇩🇪🟢Германия
