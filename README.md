@@ -1,11 +1,6 @@
 # 🌙 Eclipse VPN
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VPN-Eclipse-8A2BE2?style=for-the-badge&logo=protonvpn&logoColor=white">
-  <img src="https://img.shields.io/github/last-commit/Anymir/VPN_Eclipse?style=for-the-badge">
-</p>
-
-<p align="center">
   Быстрый и удобный VPN-конфиг с автоматическим обновлением подписки.
 </p>
 
