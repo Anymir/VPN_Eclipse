@@ -18,9 +18,10 @@
 
 Если кнопка не работает:
 
-1. Скопируйте ссылку подписки: https://raw.githubusercontent.com/Anymir/VPN_Eclipse/refs/heads/main/config.txt#Eclipse
-2. Откройте Happ
-3. Добавьте подписку вручную
+1. Скопируйте ссылку подписки:
+https://raw.githubusercontent.com/Anymir/VPN_Eclipse/refs/heads/main/config.txt#Eclipse
+3. Откройте Happ
+4. Добавьте подписку вручную
 
 ---
 
