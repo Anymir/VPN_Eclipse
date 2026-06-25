@@ -1,1 +1,54 @@
-# VPN_Eclipse
+# 🌙 Eclipse VPN
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VPN-Eclipse-8A2BE2?style=for-the-badge&logo=protonvpn&logoColor=white">
+  <img src="https://img.shields.io/github/last-commit/Anymir/VPN_Eclipse?style=for-the-badge">
+</p>
+
+<p align="center">
+  Быстрый и удобный VPN-конфиг с автоматическим обновлением подписки.
+</p>
+
+---
+
+## 🚀 Быстрое подключение
+
+### Добавить в Happ
+
+Нажмите на ссылку ниже — приложение Happ автоматически откроет импорт конфигурации:
+
+<a href="happ://add/https://raw.githubusercontent.com/Anymir/VPN_Eclipse/refs/heads/main/config.txt#Eclipse">
+<img src="https://img.shields.io/badge/➕%20Добавить%20в%20Happ-6C5CE7?style=for-the-badge">
+</a>
+
+Если кнопка не работает:
+
+1. Скопируйте ссылку подписки: https://raw.githubusercontent.com/Anymir/VPN_Eclipse/refs/heads/main/config.txt#Eclipse
+2. Откройте Happ
+3. Добавьте подписку вручную
+
+---
+
+## 📱 Поддерживаемые клиенты
+
+Основной клиент:
+
+- ✅ Happ
+
+Дополнительные клиенты:
+
+- ✅ INCY
+
+Также конфигурация может поддерживаться другими клиентами, совместимыми с используемым протоколом.
+
+---
+
+## 🔄 Обновление
+
+Подписка обновляется автоматически.
+
+После добавления в Happ новые изменения конфигурации будут подтягиваться через обновление подписки.
+
+---
+
+Создано с ❤️ для удобного использования VPN.
